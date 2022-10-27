@@ -3,42 +3,42 @@
         "id": "1",
         "uid": "06-4128599",
         "title": "LEARN PYTHON",
-        "image": "/data/images/python.png",
+        "image": "https://drive.google.com/uc?export=view&id=1C766DOyIlEL3ieg9wV5Yf03lR9qGNQbo",
         "description": "This is a high-level and general-purpose language that focuses on code readability. It's one of the most popular beginner languages because of its ease of use, wide application, active community, and freedom of use. Programmers can use it for object-oriented, structured, or functional tasks. Python has a comprehensive standard library, which has earned the language the title batteries included. The libraries provide tools for many tasks, such as creating internet applications, graphical user interfaces, and data analytics."
     },
     {
         "id": "2",
         "uid": "68-7747571",
         "title": "LEARN JAVA",
-        "image": "/data/images/java.png",
+        "image": "https://drive.google.com/uc?export=view&id=1OLlpynEUu_WlG-fcwcAbMrci2PAP4mbp",
         "description": "Developers mostly use Java for web apps. back-end interfaces or general service application programming interfaces (APIs) enhanced by frameworks such as Spring and Dropwizard. Java differs from JavaScript in that it's a strongly typed language, translating to a deeper learning curve. The complexity is an advantage that makes Java have higher performance. Java enforces its performance by multi-thread work that can run concurrently. JavaScript only uses a single thread. Java also balances complexity and performance by avoiding many items that the coder can manage in other languages."
     },
     {
         "id": "3",
         "uid": "69-0700391",
         "title": "LEARN JAVASCRIPT",
-        "image": "/data/images/javascript.jpg",
+        "image": "https://drive.google.com/uc?export=view&id=1EwtHGhGzcpxYDp6df9MtbWsz6GsZtInM",
         "description": "This is the world's most popular programming language. Coders mainly use it on the world wide web to create web interfaces or websites. It can be an easy-to-learn language. Programmers may classify JavaScript as a high-level language, multi-paradigm, and just in time compiled. It features dynamic typing, first-class functions, and prototype-based object orientation. JavaScript can be a significant enabler of website interactivity and richness. While HTML builds the foundation for websites, JavaScript drives the websites. JavaScript has a famous library called JQuery used by most websites."
     },
     {
         "id": "4",
         "uid": "79-0486684",
         "title": "LEARN C AND C++",
-        "image": "/data/images/c.png",
+        "image": "https://drive.google.com/uc?export=view&id=16MAfpDXhAWuUvt77R4eX25HTC7lhFaLp",
         "description": "C is a low-level language. This means that it requires the programmer to understand the underlying computer hardware. High-level languages have abstracted the computer details. For example, when using a low-level language, your program can take care of memory management in the code. Typically, higher programming languages automate the process of memory management for computers. Although C is low level, it compensates for having better performance than other easy-to-learn languages. While performance might not be a significant concern for a social media app, it's a substantial consideration for gaming apps, movie special effects software, and portions of operating systems."
     },
     {
         "id": "5",
         "uid": "03-2181666",
         "title": "LEARN SQL",
-        "image": "/data/images/sql.png",
+        "image": "https://drive.google.com/uc?export=view&id=1_Y48PWujEUyEtLtIElJfHdj9MWV0_oLd",
         "description": "Structured Query Language (SQL) is used to query data. Computers send the SQL data queries to a server that responds with the requested data. SQL allows you to retrieve, insert, update, delete, and create data within a database. There are many variants of SQL and all variants have several similarities. The ANSI standard requirement enforces these similarities that the variants include significant commands, such as where, select, and delete."
     },
     {
         "id": "6",
         "uid": "21-1704330",
         "title": "LEARN KOTLIN",
-        "image": "/data/images/kotlin.jpg",
+        "image": "https://drive.google.com/uc?export=view&id=1lSC7mUvN9v0qJsGRKxhWVd_6a0ioJ62d",
         "description": "Kotlin is a general purpose, free, open source, statically typed pragmatic programming language initially designed for the JVM (Java Virtual Machine) and Android, and combines object-oriented and functional programming features. It is focused on interoperability, safety, clarity, and tooling support. Versions of Kotlin targeting JavaScript ES5.1 and native code (using LLVM) for a number of processors are in production as well.Kotlin originated at JetBrains, the company behind IntelliJ IDEA, in 2010, and has been open source since 2012."
     }
 ]
